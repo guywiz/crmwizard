@@ -1,0 +1,11 @@
+[database]
+filename: path to sqlite db file    
+
+[documents]
+doc_path: path to mail data folders
+
+[mailbox]
+mailbox_path: mail/
+user_id: user gmail address 
+credential_file: json credentials file
+token_file: json token file

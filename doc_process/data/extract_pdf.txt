@@ -1,0 +1,29 @@
+                          Pro Forma Invoice
+  HKliving B.V.
+  De Dieze 2                                 Customer No.          : 12752
+  8253 PS  Dronten                           Delivery Method       : Vervoerder
+  Netherlands                                Payment Condition     : Payment condition 00
+  Tel : 0321-382631
+  Ordered by:
+  Yesss Electrique
+  Maxime Boissonnade
+    
+  France
+  Delivery adress:                           Billing address:
+  Yesss Electrique                           Yesss Electrique
+  Yesss Niort                                Dr Poitou Charentes TSA 40018
+                                             69817  Tassin Cedex
+                                             France
+  79000  Niort
+  France
+           Order Order  Your                            Stock            Unit Total   Net     Net
+  Article  no.   date   Reference  Description          date    Quant.  price Disc%  price amount
+  VAA1039  58951 02-03-18 niet leveren vlamp 'Workshop' L copper09-03-1823111,16 0  111,16 3.093,58
+  CAT0002  58951 02-03-18 niet leveren vCatalogue 2018  09-03-18    5    0,00    0    0,00    0,00
+  Total quantity: 28                              Subtotal Excl. discount and VAT :2556,68  EUR
+                                                               Total discount :      0,00   EUR
+                                                            Total VAT Amount :     536,90   EUR
+                                                              Total amount :     3.093,58   EUR
+  NL86INGB0006798948              BIC: INGBNL2A                              HKliving B.V. Dronten
+                                           
+                                               Page 1
